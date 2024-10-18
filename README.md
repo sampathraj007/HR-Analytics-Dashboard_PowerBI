@@ -1,3 +1,5 @@
+This is a PowerBI End to End project where
+
 The Main objective of this project is to analyse and predict employee attrition rate at IBM using advanced data analysis techniques.
 
 By Sanitizing the data like dealing with the null values, dealing with the missing values by replacing with the correct fit.
